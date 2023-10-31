@@ -7,6 +7,8 @@ This example shows how to:
 
 **Note:** This examples might not obtain an actual random number, you can read more about in the [docs](https://docs.espressif.com/projects/esp-idf/en/v5.1.1/esp32/api-reference/system/random.html).
 
+**Note:** This is mainly based on ESP-IDF (UART Asynchronous Example)[https://github.com/espressif/esp-idf/tree/master/examples/peripherals/uart/uart_async_rxtxtasks]
+
 ## How to use example
 
 ### Configure the project
